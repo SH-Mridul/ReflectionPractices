@@ -1,0 +1,14 @@
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributes\bin\Debug\net9.0\ReflectionAttributes.exe
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributes\bin\Debug\net9.0\ReflectionAttributes.deps.json
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributes\bin\Debug\net9.0\ReflectionAttributes.runtimeconfig.json
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributes\bin\Debug\net9.0\ReflectionAttributes.dll
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributes\bin\Debug\net9.0\ReflectionAttributes.pdb
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributes\obj\Debug\net9.0\ReflectionAttributes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributes\obj\Debug\net9.0\ReflectionAttributes.AssemblyInfoInputs.cache
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributes\obj\Debug\net9.0\ReflectionAttributes.AssemblyInfo.cs
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributes\obj\Debug\net9.0\ReflectionAttributes.csproj.CoreCompileInputs.cache
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributes\obj\Debug\net9.0\ReflectionAttributes.dll
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributes\obj\Debug\net9.0\refint\ReflectionAttributes.dll
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributes\obj\Debug\net9.0\ReflectionAttributes.pdb
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributes\obj\Debug\net9.0\ReflectionAttributes.genruntimeconfig.cache
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributes\obj\Debug\net9.0\ref\ReflectionAttributes.dll

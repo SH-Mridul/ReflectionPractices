@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ReflectionAttributes/1.0.0": {
+        "runtime": {
+          "ReflectionAttributes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReflectionAttributes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
