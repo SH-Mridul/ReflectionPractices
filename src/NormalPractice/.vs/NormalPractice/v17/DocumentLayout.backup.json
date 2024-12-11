@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "F:\\Asp.net Devskill\\Practice\\NormalPractice\\src\\NormalPractice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7612AB08-72B6-419B-9B89-9D363091CD4E}|ReflectionAttributesAnother\\ReflectionAttributesAnother.csproj|f:\\asp.net devskill\\practice\\normalpractice\\src\\normalpractice\\reflectionattributesanother\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7612AB08-72B6-419B-9B89-9D363091CD4E}|ReflectionAttributesAnother\\ReflectionAttributesAnother.csproj|solutionrelative:reflectionattributesanother\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7612AB08-72B6-419B-9B89-9D363091CD4E}|ReflectionAttributesAnother\\ReflectionAttributesAnother.csproj|f:\\asp.net devskill\\practice\\normalpractice\\src\\normalpractice\\reflectionattributesanother\\reflectionattributesanother.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7612AB08-72B6-419B-9B89-9D363091CD4E}|ReflectionAttributesAnother\\ReflectionAttributesAnother.csproj|solutionrelative:reflectionattributesanother\\reflectionattributesanother.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E146256-4709-4362-86F2-8F511503BFE0}|ReflectionAttributes\\ReflectionAttributes.csproj|f:\\asp.net devskill\\practice\\normalpractice\\src\\normalpractice\\reflectionattributes\\reflectionattributes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E146256-4709-4362-86F2-8F511503BFE0}|ReflectionAttributes\\ReflectionAttributes.csproj|solutionrelative:reflectionattributes\\reflectionattributes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C82761-9D14-4FA3-B2EB-33FAC8AA68C0}|ReflectionPractice\\ReflectionPractice.csproj|f:\\asp.net devskill\\practice\\normalpractice\\src\\normalpractice\\reflectionpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C82761-9D14-4FA3-B2EB-33FAC8AA68C0}|ReflectionPractice\\ReflectionPractice.csproj|solutionrelative:reflectionpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E146256-4709-4362-86F2-8F511503BFE0}|ReflectionAttributes\\ReflectionAttributes.csproj|f:\\asp.net devskill\\practice\\normalpractice\\src\\normalpractice\\reflectionattributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E146256-4709-4362-86F2-8F511503BFE0}|ReflectionAttributes\\ReflectionAttributes.csproj|solutionrelative:reflectionattributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 133,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +38,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReflectionAttributesAnother",
+              "DocumentMoniker": "F:\\Asp.net Devskill\\Practice\\NormalPractice\\src\\NormalPractice\\ReflectionAttributesAnother\\ReflectionAttributesAnother.csproj",
+              "RelativeDocumentMoniker": "ReflectionAttributesAnother\\ReflectionAttributesAnother.csproj",
+              "ToolTip": "F:\\Asp.net Devskill\\Practice\\NormalPractice\\src\\NormalPractice\\ReflectionAttributesAnother\\ReflectionAttributesAnother.csproj",
+              "RelativeToolTip": "ReflectionAttributesAnother\\ReflectionAttributesAnother.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T20:12:05.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReflectionAttributes",
+              "DocumentMoniker": "F:\\Asp.net Devskill\\Practice\\NormalPractice\\src\\NormalPractice\\ReflectionAttributes\\ReflectionAttributes.csproj",
+              "RelativeDocumentMoniker": "ReflectionAttributes\\ReflectionAttributes.csproj",
+              "ToolTip": "F:\\Asp.net Devskill\\Practice\\NormalPractice\\src\\NormalPractice\\ReflectionAttributes\\ReflectionAttributes.csproj",
+              "RelativeToolTip": "ReflectionAttributes\\ReflectionAttributes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T20:12:03.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Asp.net Devskill\\Practice\\NormalPractice\\src\\NormalPractice\\ReflectionPractice\\Program.cs",
+              "RelativeDocumentMoniker": "ReflectionPractice\\Program.cs",
+              "ToolTip": "F:\\Asp.net Devskill\\Practice\\NormalPractice\\src\\NormalPractice\\ReflectionPractice\\Program.cs",
+              "RelativeToolTip": "ReflectionPractice\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:28:02.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Asp.net Devskill\\Practice\\NormalPractice\\src\\NormalPractice\\ReflectionAttributesAnother\\Program.cs",
+              "RelativeDocumentMoniker": "ReflectionAttributesAnother\\Program.cs",
+              "ToolTip": "F:\\Asp.net Devskill\\Practice\\NormalPractice\\src\\NormalPractice\\ReflectionAttributesAnother\\Program.cs",
+              "RelativeToolTip": "ReflectionAttributesAnother\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEAAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:21:32.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Asp.net Devskill\\Practice\\NormalPractice\\src\\NormalPractice\\ReflectionAttributes\\Program.cs",
               "RelativeDocumentMoniker": "ReflectionAttributes\\Program.cs",
               "ToolTip": "F:\\Asp.net Devskill\\Practice\\NormalPractice\\src\\NormalPractice\\ReflectionAttributes\\Program.cs",
               "RelativeToolTip": "ReflectionAttributes\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwCUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T21:00:20.111Z",
+              "WhenOpened": "2024-12-10T22:01:29.91Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributesAnother\bin\Debug\net9.0\ReflectionAttributesAnother.exe
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributesAnother\bin\Debug\net9.0\ReflectionAttributesAnother.deps.json
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributesAnother\bin\Debug\net9.0\ReflectionAttributesAnother.runtimeconfig.json
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributesAnother\bin\Debug\net9.0\ReflectionAttributesAnother.dll
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributesAnother\bin\Debug\net9.0\ReflectionAttributesAnother.pdb
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributesAnother\obj\Debug\net9.0\ReflectionAttributesAnother.GeneratedMSBuildEditorConfig.editorconfig
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributesAnother\obj\Debug\net9.0\ReflectionAttributesAnother.AssemblyInfoInputs.cache
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributesAnother\obj\Debug\net9.0\ReflectionAttributesAnother.AssemblyInfo.cs
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributesAnother\obj\Debug\net9.0\ReflectionAttributesAnother.csproj.CoreCompileInputs.cache
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributesAnother\obj\Debug\net9.0\ReflectionAttributesAnother.sourcelink.json
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributesAnother\obj\Debug\net9.0\ReflectionAttributesAnother.dll
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributesAnother\obj\Debug\net9.0\refint\ReflectionAttributesAnother.dll
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributesAnother\obj\Debug\net9.0\ReflectionAttributesAnother.pdb
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributesAnother\obj\Debug\net9.0\ReflectionAttributesAnother.genruntimeconfig.cache
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionAttributesAnother\obj\Debug\net9.0\ref\ReflectionAttributesAnother.dll
