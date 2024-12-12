@@ -1,0 +1,15 @@
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionRecursion\bin\Debug\net9.0\ReflectionRecursion.exe
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionRecursion\bin\Debug\net9.0\ReflectionRecursion.deps.json
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionRecursion\bin\Debug\net9.0\ReflectionRecursion.runtimeconfig.json
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionRecursion\bin\Debug\net9.0\ReflectionRecursion.dll
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionRecursion\bin\Debug\net9.0\ReflectionRecursion.pdb
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionRecursion\obj\Debug\net9.0\ReflectionRecursion.GeneratedMSBuildEditorConfig.editorconfig
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionRecursion\obj\Debug\net9.0\ReflectionRecursion.AssemblyInfoInputs.cache
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionRecursion\obj\Debug\net9.0\ReflectionRecursion.AssemblyInfo.cs
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionRecursion\obj\Debug\net9.0\ReflectionRecursion.csproj.CoreCompileInputs.cache
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionRecursion\obj\Debug\net9.0\ReflectionRecursion.sourcelink.json
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionRecursion\obj\Debug\net9.0\ReflectionRecursion.dll
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionRecursion\obj\Debug\net9.0\refint\ReflectionRecursion.dll
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionRecursion\obj\Debug\net9.0\ReflectionRecursion.pdb
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionRecursion\obj\Debug\net9.0\ReflectionRecursion.genruntimeconfig.cache
+F:\Asp.net Devskill\Practice\NormalPractice\src\NormalPractice\ReflectionRecursion\obj\Debug\net9.0\ref\ReflectionRecursion.dll

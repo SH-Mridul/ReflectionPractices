@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionAttributes", "Ref
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionAttributesAnother", "ReflectionAttributesAnother\ReflectionAttributesAnother.csproj", "{7612AB08-72B6-419B-9B89-9D363091CD4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionRecursion", "ReflectionRecursion\ReflectionRecursion.csproj", "{C30A50DE-DFA8-43F0-BD10-E868AECA685E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7612AB08-72B6-419B-9B89-9D363091CD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7612AB08-72B6-419B-9B89-9D363091CD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7612AB08-72B6-419B-9B89-9D363091CD4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C30A50DE-DFA8-43F0-BD10-E868AECA685E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30A50DE-DFA8-43F0-BD10-E868AECA685E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30A50DE-DFA8-43F0-BD10-E868AECA685E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30A50DE-DFA8-43F0-BD10-E868AECA685E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
